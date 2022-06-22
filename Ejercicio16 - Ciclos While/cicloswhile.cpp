@@ -10,7 +10,7 @@ int main(int argc, char const *argv[])
         cout<< " Ingrese el valor de a: ";
         cin>> a;
     }
-
+    
     cout<< endl;
     cout<<" Saliste del ciclo." <<endl;
     
